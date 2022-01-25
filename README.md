@@ -7,7 +7,7 @@
 
 <a href="https://github.com/dclef">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dclef&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"  /></a> | 
-  <a href="https://github.com/dclef"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dclef&layout=compact&theme=buefy&hide_border=true" /></a> |
+  <a href="https://github.com/dclef"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dclef&layout=compact&theme=buefy&hide_border=true" /></a> || ------------- | ------------- |
 
 Languages and Tools:
 
