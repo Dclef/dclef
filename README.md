@@ -5,7 +5,7 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=dclef alt=dclef /> </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/dclef"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dclef&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt=" github stats" /></a> | <a href="https://github.com/dclef"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dclef&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
