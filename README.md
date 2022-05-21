@@ -9,15 +9,15 @@
 | ------------- | ------------- |
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dclef&theme=tokyonight_duo&date_format=%5BY.%5Dn.j) -->
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dclef&bg_color=e6fcff&color=000000&line=000000&point=00e1ff&area=true&hide_border=true&width=100%)
 ## Counter
 ![:dclef](https://count.getloli.com/get/@dclef?theme=rule34)
 
-Languages and Tools:
+## Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dclef&bg_color=e6fcff&color=000000&line=000000&point=00e1ff&area=true&hide_border=true&width=100%)
 
 
 
