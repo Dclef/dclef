@@ -11,7 +11,7 @@
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dclef&theme=tokyonight_duo&date_format=%5BY.%5Dn.j)
-&emsp;![:dclef](https://count.getloli.com/get/@dclef?theme=rule34) 
+&emsp;&nbsp;![:dclef](https://count.getloli.com/get/@dclef?theme=rule34) 
 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dclef&bg_color=e6fcff&color=000000&line=000000&point=00e1ff&area=true&hide_border=true&width=100%)
 
