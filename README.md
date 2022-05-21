@@ -7,9 +7,9 @@
 
 | <a href="https://github.com/dclef"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dclef&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt=" github stats" /></a> | <a href="https://github.com/dclef"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dclef&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dclef&theme=tokyonight_duo&date_format=%5BY.%5Dn.j)](https://dclef.icu)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dclef&theme=tokyonight_duo&date_format=%5BY.%5Dn.j)
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dclef&bg_color=e6fcff&color=000000&line=000000&point=00e1ff&area=true&hide_border=true&width=100%)
+<!-- ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dclef&bg_color=e6fcff&color=000000&line=000000&point=00e1ff&area=true&hide_border=true&width=100%) -->
 ## Counter
 ![:dclef](https://count.getloli.com/get/@dclef?theme=rule34)
 
