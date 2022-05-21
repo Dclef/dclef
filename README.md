@@ -3,11 +3,13 @@
 [![Mail Badge](https://img.shields.io/badge/-drclef233@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:drclef233@gmail.com)](mailto:drclef233@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-dclef-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dclef/)](https://www.github.com/dclef/)
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=dclef alt=dclef /> </p>
+<!-- <p align=left> <img src=https://komarev.com/ghpvc/?username=dclef alt=dclef /> </p> -->
 
 | <a href="https://github.com/dclef"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dclef&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt=" github stats" /></a> | <a href="https://github.com/dclef"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dclef&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+<h1 align="center">访客数</h1>
 
+![:dclef](https://count.getloli.com/get/@dclef?theme=rule34)
 
 Languages and Tools:
 
