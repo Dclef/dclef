@@ -7,8 +7,7 @@
 
 | <a href="https://github.com/dclef"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dclef&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt=" github stats" /></a> | <a href="https://github.com/dclef"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dclef&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-<h1 align="center">访客数</h1>
-
+## counter
 ![:dclef](https://count.getloli.com/get/@dclef?theme=rule34)
 
 Languages and Tools:
